@@ -3,7 +3,7 @@
 
 ## 🏗️ What I'm Building
 
-<Project name and link to the real project>
+<Project name and link to the real project>education i guess
 
 ## 🛠️ Tools I Use
 
